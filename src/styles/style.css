@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    padding: 10px;
+    background-color: #f8f8eb;
+}
+
+
+.header {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+
+
+.main {}
+
+.main-description {
+    margin-bottom: 15px;
+}
+.main-description-heading {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.main-description-info {}
+
+.main-skills {
+    margin-bottom: 15px;
+}
+.main-skills-heading {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.main-skills-list {}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+
+}
+
